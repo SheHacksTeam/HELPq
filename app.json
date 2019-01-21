@@ -2,7 +2,7 @@
     "name": "HELPq",
     "description": "An extensible, customizable real-time queue system",
     "env": {
-        "ROOT_URL": "https://techtogetherboston.herokuapp.com/",
+        "ROOT_URL": "https://techtogetherboston19.herokuapp.com/",
         "ADMIN_PASSWORD": "boston19",
         "ADMIN_USERNAME": "admin",
         "DEFAULT_MENTOR": "true",
