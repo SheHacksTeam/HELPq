@@ -47,12 +47,12 @@ $github-gray: #e4e4e4;
 
 // Styling for the fonts
 @mixin font-stack(){
-  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
-  font-weight: 300;
+  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-weight: 400;
 }
 
 @mixin logo-font(){
-  font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
   font-weight: 700;
 }
 
