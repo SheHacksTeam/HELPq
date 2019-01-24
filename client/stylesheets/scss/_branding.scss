@@ -76,10 +76,10 @@ $github-gray: #e4e4e4;
 
   // Basic white text on brand color:
   background: $brand-primary;
-  background-image: url(/assets/images/lockup_techtogether-color.png);
+  background-image: url(/assets/images/logo-white.png);
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: 1000px 321px;
+  background-position: center top;
+  background-size: 400px auto;
 
   // Single background image covering the entire page
   // background: url(/assets/images/background.jpg) no-repeat center center;
@@ -103,8 +103,8 @@ $github-gray: #e4e4e4;
   background: $brand-primary;
   background-image: url(/assets/images/logo-white.png);
   background-repeat: no-repeat;
-  background-position: left top;
-  background-size: 1000px 321px;
+  background-position: 0% 0%;
+  background-size: 300px auto;
 
   // Repeated Background:
   // background: url(/assets/images/geometry2.png) repeat;
